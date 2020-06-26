@@ -5,5 +5,6 @@ const router = express.Router();
 const trend = require('../controllers/trend.controller');
 
 router.post('/drop',trend.drop);
+router.post('/recruit',trend.employeeFilter);
 
 module.exports = router;

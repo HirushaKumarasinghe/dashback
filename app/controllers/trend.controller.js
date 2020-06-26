@@ -21,7 +21,7 @@ exports.employeeFilter = (req, res) => {
         res.status(200).json({c_dev});
     }
     else{
-        res.status(400);
+        res.status(400).send({message:"error"});
 
     }
 };
