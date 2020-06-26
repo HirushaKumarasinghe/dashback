@@ -5,6 +5,6 @@ const router = express.Router();
 const appraisals = require('../controllers/appraisal.controller');
 
 router.post('/appr',appraisals.startQ);
-router.post('/ans',appraisals.answers);
+router.get('/ans',appraisals.answers);
 
 module.exports = router;

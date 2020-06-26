@@ -1,0 +1,11 @@
+{
+    "employee_count":5,
+    "employees":[
+        {
+            "name":"Jhon Deo",
+            "designation":"Tech Lead",
+            "skills":["NodeJS","Java","Spring boot"],
+            "tools":["Intelij","Visual Studio Code"]
+        }
+    ]
+}

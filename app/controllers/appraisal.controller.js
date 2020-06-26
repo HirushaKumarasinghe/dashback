@@ -46,7 +46,7 @@ exports.startQ = (req, res) => {
 
 
 exports.answers = (req, res) => {
-    res.status(200);
+    res.status(200).send({message:"success"});
 };
   
 
