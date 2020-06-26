@@ -1,8 +1,8 @@
 var trendTypes = require("../models/project_types.json");
 
-// var java_dev = require("../models/java.json");
-// var c_dev = require("../models/c.json");
-// var js_dev = require("../models/node.json");
+var java_dev = require("../models/java.json");
+var c_dev = require("../models/c.json");
+var js_dev = require("../models/node.json");
 
 exports.drop = (req, res) => {
     res.status(200).json({trendTypes});
