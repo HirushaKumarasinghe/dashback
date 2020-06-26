@@ -1,11 +1,48 @@
 {
-    "employee_count":5,
+    "required_time":"N/A",
+    "employee_count":7,
     "employees":[
+        {
+            "name":"Jhon Deo",
+            "designation":"Project Manager",
+            "skills":["Java"],
+            "tools":["Intelij","Visual Studio Code","Jira"]
+        },
         {
             "name":"Jhon Deo",
             "designation":"Tech Lead",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
+        },
+        {
+            "name":"David Bowie",
+            "designation":"Senior Software Engineer",
+            "skills":["NodeJS","Java","Spring boot"],
+            "tools":["Intelij","Visual Studio Code"]
+        },
+        {
+            "name":"Jhon Deo",
+            "designation":"Associate Software Engineer",
+            "skills":["NodeJS","Java","Spring boot"],
+            "tools":["Intelij","Visual Studio Code"]
+        },
+        {
+            "name":"Jhon Deo",
+            "designation":"UI Designer",
+            "skills":["Graphic Designing"],
+            "tools":["Photoshop","Illustrator","AdobeXD"]
+        },
+        {
+            "name":"Jhon Deo",
+            "designation":"cyber security Engineer",
+            "skills":["NodeJS","Java","Spring boot"],
+            "tools":["Metaspolit","Wireshark"]
+        },
+        {
+            "name":"Jhon Deo",
+            "designation":"QA Engineer",
+            "skills":[],
+            "tools":["selenium"]
         }
     ]
 }
