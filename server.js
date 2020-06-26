@@ -5,7 +5,8 @@ const cors = require("cors");
 
 //route files
 const employee_routes = require("./app/routes/employee");
-// const trend = require("./app/routes/trend");
+const apr_routes = require("./app/routes/apprasial");
+const trend_routes = require("./app/routes/trend");
 
 
 const app = express();
@@ -19,7 +20,8 @@ app.get("/", (req, res) => res.send("Hello"));
 
 //use routes
 app.use("/api/emp", employee_routes);
-// app.use("/api/trend", trend);
+app.use("/api/trend", trend_routes);
+app.use("/api/apr", apr_routes);
 
 
 const port = process.env.PORT || 5000;

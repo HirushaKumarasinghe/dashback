@@ -2,40 +2,40 @@
     "count":6,
     "questions":[
         {
-            "qnumber":1,
-            "question":"The core values of the company are aligned with my own",
-            "type":"like",
-            "data":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
+            "qIndex":1,
+            "question":"My line manager facilitates my work",
+            "type":"radio",
+            "paras":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
         },
         {
-            "qnumber":2,
-            "question":"I am given the freedom to decide how to work",
-            "type":"like",
-            "data":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
+            "qIndex":2,
+            "question":"Company goals and objectives which are set are achievable and I know my part in achieving them",
+            "type":"radio",
+            "paras":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
         },
         {
-            "qnumber":3,
-            "question":"My team supports me whenever necessary",
-            "type":"like",
-            "data":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
+            "qIndex":3,
+            "question":"There is a clear communication of company targets and objectives from the leadership",
+            "type":"radio",
+            "paras":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
         },
         {
-            "qnumber":4,
-            "question":"The work environment is beneficial for productive work",
-            "type":"like",
-            "data":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
+            "qIndex":4,
+            "question":"The business goals and strategies are taking the company in the right path",
+            "type":"radio",
+            "paras":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
         },
         {
-            "qnumber":5,
-            "question":"How would you rate the Culture in your company",
-            "type":"like",
-            "data":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
+            "qIndex":5,
+            "question":"How would you rate the leadership in your company",
+            "type":"radio",
+            "paras":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
         },
         {
-            "qnumber":6,
-            "question":"What is your personal opinion on the culture of your organization?",
+            "qIndex":6,
+            "question":"What is your personal opinion on the leadership of your company?",
             "type":"text",
-            "data":[]
+            "paras":[]
         }
     ]
 }
