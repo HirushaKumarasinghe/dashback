@@ -12,13 +12,13 @@ exports.employeeFilter = (req, res) => {
     var type = req.body.type;
 
     if(type == "node"){
-        res.status(200).json({js_dev});
+        res.status(200).json({employees:js_dev});
     }
     else if(type == "java"){
-        res.status(200).json({java_dev});
+        res.status(200).json({employees:java_dev});
     }
     else if(type == "c"){
-        res.status(200).json({c_dev});
+        res.status(200).json({employees:c_dev});
     }
     else{
         res.status(400).send({message:"error"});
