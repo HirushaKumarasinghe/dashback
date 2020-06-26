@@ -2,8 +2,8 @@ const express = require('express');
 const router = express.Router();
 
 // Require the controllers WHICH WE DID NOT CREATE YET!!
-const trend = require('../controllers/trend.controller');
+const appraisals = require('../controllers/appraisal.controller');
 
-router.post('/drop',trend.drop);
+router.post('/appr',appraisals.startQ);
 
 module.exports = router;

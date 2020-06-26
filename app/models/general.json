@@ -1,0 +1,17 @@
+{
+    "count":2,
+    "questions":[
+        {
+            "qnumber":7,
+            "question":"The core values of the company are aligned with my own",
+            "type":"like",
+            "data":["Strongly Disagree","Disagree","Neutral","Agree","Strongly Agree"]
+        },
+        {
+            "qnumber":8,
+            "question":"I am given the freedom to decide how to work",
+            "type":"like",
+            "data":["Yes","No"]
+        }
+    ]
+}
