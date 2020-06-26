@@ -44,3 +44,9 @@ exports.startQ = (req, res) => {
     }
 };
 
+
+exports.answers = (req, res) => {
+    res.status(200);
+};
+  
+
