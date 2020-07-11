@@ -5,6 +5,7 @@ var general = require("../models/general.json");
 var workLife = require("../models/worklife.json");
 var leadership = require("../models/leader.json");
 var empdev = require("../models/empdev.json");
+var results = require("../models/results.json");
 
 const SG_EMAIL_KEY = "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";
 
@@ -109,3 +110,12 @@ exports.survey_x= (req, res) => {
 //stat campaign
 
 //display data on pasindu
+
+
+
+exports.results= (req, res) => {
+
+  res.status(200).json({results});
+
+
+};

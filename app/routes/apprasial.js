@@ -7,5 +7,6 @@ const appraisals = require('../controllers/appraisal.controller');
 router.post('/camp',appraisals.survey_camp);
 router.post('/appr',appraisals.startQ);
 router.post('/ans',appraisals.answers);
+router.post('/results',appraisals.results);
 
 module.exports = router;
