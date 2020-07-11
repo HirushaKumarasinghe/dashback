@@ -22,7 +22,6 @@ exports.employeeFilter = (req, res) => {
     }
     else{
         res.status(400).send({message:"error"});
-
     }
 };
   

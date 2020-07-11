@@ -6,7 +6,8 @@
             "email":"rashmikaravindu@gmail.com",
             "phone":"(+94)713905184 / (+94)112757354",
             "address":"41/3F/4A ,Blackpearl Estate,Watereka,Meegoda.",
-            "education_count":2,
+            "education_count":5,
+            "education_total":10,
             "education":[
                 {
                     "qualification":"B.Sc. Special (Hons) – Information Technology",
@@ -35,6 +36,7 @@
                 }
             ],
             "experience_count":1,
+            "experience_total":0,
             "experiences":[
                 {
                     "experience":"",
@@ -43,6 +45,7 @@
                 }
             ],
             "skills_count":6,
+            "skills_total":12,
             "skills":[
                 {
                     "skill":"C++",
@@ -76,6 +79,7 @@
                 }
             ],
             "soft_skills_count":1,
+            "soft_skills_total":0,
             "soft_skills":[
                 {
                     "type":"",
