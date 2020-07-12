@@ -132,38 +132,12 @@
             "labels": [
                 "1","2","3","4","5"
               ],
-              "datasets": [
-                {
-                  "label": "1",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [5]
-                },
-                {
-                  "label": "2",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [5]
-                },
-                {
-                  "label": "3",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [21]
-                },
-                {
-                  "label": "4",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [26]
-                },
-                {
-                  "label": "5",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [6]
-                }
-              ]
+              "datasets": [{
+                "label": "Rating",
+                "backgroundColor": "#0554FF",
+                "borderColor": "#0554FF",
+                "data": [5,5,21,26,6]
+              }]
         },
         {
             "question":"What is your personal opinion on the culture of your organization?",
@@ -240,37 +214,12 @@
             "labels": [
                 "1","2","3","4","5"
               ],
-              "datasets": [
-                {
-                  "label": "1",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [5]
-                },
-                {
-                  "label": "2",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [5]
-                },
-                {
-                  "label": "3",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [21]
-                },
-                {
-                  "label": "4",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [26]
-                },
-                {
-                  "label": "5",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [6]
-                }
+              "datasets": [{
+                "label": "Rating",
+                "backgroundColor": "#0554FF",
+                "borderColor": "#0554FF",
+                "data": [5,5,21,26,6]
+              }
               ]
         },
         {
@@ -348,37 +297,12 @@
             "labels": [
                 "1","2","3","4","5"
               ],
-              "datasets": [
-                {
-                  "label": "1",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [5]
-                },
-                {
-                  "label": "2",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [5]
-                },
-                {
-                  "label": "3",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [21]
-                },
-                {
-                  "label": "4",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [26]
-                },
-                {
-                  "label": "5",
-                  "backgroundColor": "#0554FF",
-                  "borderColor": "#0554FF",
-                  "data": [6]
-                }
+              "datasets": [{
+                "label": "Rating",
+                "backgroundColor": "#0554FF",
+                "borderColor": "#0554FF",
+                "data": [5,5,21,26,6]
+              }
               ]
         },
         {
