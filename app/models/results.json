@@ -94,7 +94,7 @@
               "April",
               "May",
               "June",
-              "July",
+              "July"
             ],
             "datasets": [
               {
@@ -106,12 +106,12 @@
                   "pink",
                   "teal",
                   "#3e0688",
-                  "#8FC3FF",
+                  "#8FC3FF"
                 ],
                 "hoverBorderColor": "",
                 "borderColor": "",
                 "borderWidth": 0,
-                "data": [80, 74, 55, 62, 60, 70, 45],
+                "data": [80, 74, 55, 62, 60, 70, 45]
               }
             ]
         }
