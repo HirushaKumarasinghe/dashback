@@ -62,7 +62,7 @@ exports.survey_camp = (req, res) => {
 
     sgMail.setApiKey(SG_EMAIL_KEY);
     var msg = {
-      to: "rahalamrith46@gmail.com",
+      to: "hirushakumarasinghe@gmail.com",
       from: {
         email: 'hirusha@lucidex.lk',
         name: 'Phoenix HR'

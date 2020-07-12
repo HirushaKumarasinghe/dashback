@@ -88,23 +88,32 @@
             "question":"Employee Development",
             "type":"pie",
             "labels": [
-                "The core values of the company are aligned with my own",
-                "I am given the freedom to decide how to work"
-              ],
-              "datasets": [
-                {
-                  "label": "Strongly Disagree",
-                  "backgroundColor": "#698600",
-                  "borderColor": "#698600",
-                  "data": [45, 80]
-                },
-                {
-                  "label": "Disagree",
-                  "backgroundColor": "#008658",
-                  "borderColor": "#008658",
-                  "data": [80, 74]
-                }
-              ]
+              "January",
+              "February",
+              "March",
+              "April",
+              "May",
+              "June",
+              "July",
+            ],
+            "datasets": [
+              {
+                "label": "My Pie chart",
+                "backgroundColor": [
+                  "#477ac7",
+                  "#09dda8",
+                  "#0e91e9",
+                  "pink",
+                  "teal",
+                  "#3e0688",
+                  "#8FC3FF",
+                ],
+                "hoverBorderColor": "",
+                "borderColor": "",
+                "borderWidth": 0,
+                "data": [80, 74, 55, 62, 60, 70, 45],
+              }
+            ]
         }
     ]
 }
