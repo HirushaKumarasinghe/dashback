@@ -7,7 +7,8 @@ var leadership = require("../models/leader.json");
 var empdev = require("../models/empdev.json");
 var results = require("../models/results.json");
 
-const SG_EMAIL_KEY = "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";
+// const SG_EMAIL_KEY = "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";
+const SG_EMAIL_KEY = "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";
 
 exports.startQ = (req, res) => {
     var qt = req.body.qtype;
@@ -62,14 +63,14 @@ exports.survey_camp = (req, res) => {
 
     sgMail.setApiKey(SG_EMAIL_KEY);
     var msg = {
-      to: "hirushakumarasinghe@gmail.com",
+      to: "kavishkadabare12@gmail.com",
       from: {
         email: 'hirusha@lucidex.lk',
         name: 'Phoenix HR'
       },
-      template_id: 'd-ebab4834c1cb4b139d30da2611e9a7ba',
+      template_id: 'd-3638d46b68454cee93a857d790ea895d',
       dynamic_template_data: {
-        link: "http://13.59.253.94/survey/bfbbdusdv565464568"
+        link: "http://3.23.104.187/survey/504ae7f576fc6572ff"
       }
     };
     const sendMessagePromise = sgMail.send(msg);

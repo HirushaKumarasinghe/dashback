@@ -4,41 +4,41 @@
             "question":"Employee Development",
             "type":"bar",
             "labels": [
-                "The core values of the company are aligned with my own",
-                "I am given the freedom to decide how to work",
-                "My team supports me whenever necessary",
-                "The work environment is beneficial for productive work"
+                "The work I do is in line with my targets and objectives",
+                "I receive proper training and mentoring for the work I do",
+                "I receive recognition and/or rewards when I do my work well",
+                "My development in areas other than the work I do is promoted by the company (Sports, Toastmasters, Rotaract etc.))"
               ],
               "datasets": [
                 {
                   "label": "Strongly Disagree",
-                  "backgroundColor": "#698600",
-                  "borderColor": "#698600",
-                  "data": [45, 80, 74, 55]
+                  "backgroundColor": "#0052FA",
+                  "borderColor": "#0052FA",
+                  "data": [2, 3, 6, 5]
                 },
                 {
                   "label": "Disagree",
-                  "backgroundColor": "#008658",
-                  "borderColor": "#008658",
-                  "data": [80, 74, 55, 62]
+                  "backgroundColor": "#DB130A",
+                  "borderColor": "#DB130A",
+                  "data": [6,7,7,9]
                 },
                 {
                   "label": "Neutral",
-                  "backgroundColor": "#008658",
-                  "borderColor": "#008658",
-                  "data": [80, 74, 55, 62]
+                  "backgroundColor": "#F28907",
+                  "borderColor": "#F28907",
+                  "data": [9, 13, 12, 18]
                 },
                 {
                   "label": "Agree",
-                  "backgroundColor": "#008658",
-                  "borderColor": "#008658",
-                  "data": [80, 74, 55, 62]
+                  "backgroundColor": "#25FF05",
+                  "borderColor": "#25FF05",
+                  "data": [36, 33, 26, 22]
                 },
                 {
                   "label": "Strongly Agree",
-                  "backgroundColor": "#008658",
-                  "borderColor": "#008658",
-                  "data": [80, 74, 55, 62]
+                  "backgroundColor": "#B000FA",
+                  "borderColor": "#B000FA",
+                  "data": [8, 7, 12, 9]
                 }
               ]
         },
