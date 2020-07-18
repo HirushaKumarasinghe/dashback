@@ -3,43 +3,43 @@
     "employee_count":7,
     "employees":[
         {
-            "name":"Jhon Deo",
+            "name":"Kavishka Dabare",
             "designation":"Project Manager",
             "skills":["Java"],
             "tools":["Intelij","Visual Studio Code","Jira"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Jane Keith",
             "designation":"Tech Lead",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
         },
         {
-            "name":"David Bowie",
+            "name":"Nilushi Dias",
             "designation":"Senior Software Engineer",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Kevin Nugara",
             "designation":"Associate Software Engineer",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Gayan Ranathunge",
             "designation":"UI Designer",
             "skills":["Graphic Designing"],
             "tools":["Photoshop","Illustrator","AdobeXD"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Pasindu Kannangara",
             "designation":"cyber security Engineer",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Metaspolit","Wireshark"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Umanaga Ranasinghe",
             "designation":"QA Engineer",
             "skills":[],
             "tools":["selenium"]

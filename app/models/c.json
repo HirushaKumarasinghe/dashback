@@ -9,37 +9,37 @@
             "tools":["Intelij","Visual Studio Code","Jira"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Beckhem Cooray",
             "designation":"Tech Lead",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
         },
         {
-            "name":"David Bowie",
+            "name":"Gayan Ranathunge",
             "designation":"Senior Software Engineer",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Udara Gamage",
             "designation":"Associate Software Engineer",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Intelij","Visual Studio Code"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Dulari Fernando",
             "designation":"UI Designer",
             "skills":["Graphic Designing"],
             "tools":["Photoshop","Illustrator","AdobeXD"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Oshini Wijethunga",
             "designation":"cyber security Engineer",
             "skills":["NodeJS","Java","Spring boot"],
             "tools":["Metaspolit","Wireshark"]
         },
         {
-            "name":"Jhon Deo",
+            "name":"Denuwan Dabare",
             "designation":"QA Engineer",
             "skills":[],
             "tools":["selenium"]
