@@ -20,7 +20,7 @@ app.get("/", (req, res) => res.send("Hello"));
 
 //use routes
 app.use("/api/emp", employee_routes);
-app.use("/api/hiru", trend_routes);
+app.use("/api/trend", trend_routes);
 app.use("/api/apr", apr_routes);
 
 
