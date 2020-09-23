@@ -1,0 +1,86 @@
+{
+    "employees_count": 1,
+    "employees": [
+        {
+            "name": "Lahiru Mendis",
+            "email": "lahirusandaruwan95@gmail.com",
+            "phone": "0710646242 / 0715784285",
+            "address": "No:43,Sarabhoomi, Habaralagaslanda Rd, Wadduwa",
+            "education_count": 3,
+            "education_total": "5/20",
+            "education": [
+                {
+                    "qualification": "B.Sc. Special (Hons) – Information Technology",
+                    "comment": ""
+                },
+                {
+                    "qualification": "GCE Advance Level",
+                    "comment": ""
+                },
+                {
+                    "qualification": "GCE Ordinary Level",
+                    "comment": ""
+                }
+            ],
+            "experience_count": 0,
+            "experience_total": 0,
+            "experiences": [
+                {
+                    "experience": "",
+                    "comment": ""
+                }
+            ],
+            "skills_count": 8,
+            "skills_total": "8/20",
+            "skills": [
+                {
+                    "skill": "PHP",
+                    "comment": ""
+                },
+                {
+                    "skill": "HTML",
+                    "comment": ""
+                },
+                {
+                    "skill": "CSS",
+                    "comment": ""
+                },
+                {
+                    "skill": "JAVA",
+                    "comment": ""
+                },
+                {
+                    "skill": "JSP",
+                    "comment": ""
+                },
+                {
+                    "skill": "C++",
+                    "comment": ""
+                },
+                {
+                    "skill": "C",
+                    "comment": ""
+                },
+                {
+                    "skill": "SQL",
+                    "comment": ""
+                }
+            ],
+            "soft_skills_count": 0,
+            "soft_skills_total": 0,
+            "soft_skills": [
+                {
+                    "type": "",
+                    "outOf": ""
+                }
+            ],
+            "social": {
+                "linkedIn": "",
+                "facebook": "",
+                "twitter": "",
+                "stack": "",
+                "github": ""
+            }
+        }
+    ]
+}

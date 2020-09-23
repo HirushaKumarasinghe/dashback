@@ -1,0 +1,120 @@
+{
+    "title":"Reservation Management System",
+    "requirements":[
+        {
+            "title":"The user shall setup basic info such as Date Time format, currency format, System language, other minor setting",
+            "priority":"medium",
+            "time":"3"
+        },
+        {
+            "title":"Should be able to create multiple Property Profiles. For an example the user shall create properties such as Hotel 1, Hotel 2, Hotel 3",
+            "priority":"medium",
+            "time":"3"
+        },
+        {
+            "title":"setup Terms and Condition",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"setup new sources such as Call In, Walk In, Sales Email",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"add Room profiles in the hotel",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"configure the daily rates. User shall configure the weekday rate and weekend rate",
+            "priority":"medium",
+            "time":"3"
+        },
+        {
+            "title":"All the upcoming days will be listed here for each and every room type. The user shall adjust the rate in the matrix itself. There will be other details as well such as minimum booking period, maximum booking period, blocked date",
+            "priority":"advanced",
+            "time":"15"
+        },
+        {
+            "title":"Shall setup the email templates here. For an example reservation confirmation, invoice email",
+            "priority":"advanced",
+            "time":"15"
+        },
+        {
+            "title":"Shall define when the automated email should go out from the system. For an example an automated email should go after guest checkout the room",
+            "priority":"medium",
+            "time":"3"
+        },
+        {
+            "title":"create Guest Profile",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"Search Guest Profile",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"view existing reservation",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"create new reservation with single room or multiple room",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"add retail item to reservation",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":" Edit price upon creating reservation",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"add main guest info and create guest profile",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"add other guests to individual rooms",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"add Payment Info",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"process payment from the system (Integration with Stripe and PayPal)",
+            "priority":"advanced",
+            "time":"15"
+        },
+        {
+            "title":"view Reservation Summary",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"edit reservation info",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"upload documents",
+            "priority":"basic",
+            "time":"1"
+        },
+        {
+            "title":"add notes",
+            "priority":"basic",
+            "time":"1"
+        }
+    ]
+}

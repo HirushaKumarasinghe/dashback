@@ -3,6 +3,7 @@ var trendTypes = require("../models/project_types.json");
 var java_dev = require("../models/java.json");
 var c_dev = require("../models/c.json");
 var js_dev = require("../models/node.json");
+var srs = require("../models/srs.json");
 
 const DeviceDetector = require('node-device-detector');
 const detector = new DeviceDetector;
@@ -17,13 +18,13 @@ exports.employeeFilter = (req, res) => {
     var type = req.body.type;
 
     if(type == "node"){
-        res.status(200).json({employees:js_dev});
+        res.status(200).json({employees:js_dev,srs:srs});
     }
     else if(type == "java"){
-        res.status(200).json({employees:java_dev});
+        res.status(200).json({employees:java_dev,srs:srs});
     }
     else if(type == "c"){
-        res.status(200).json({employees:c_dev});
+        res.status(200).json({employees:c_dev,srs:srs});
     }
     else{
         res.status(400).send({message:"error"});

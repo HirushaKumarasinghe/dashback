@@ -2,31 +2,31 @@
     "employees_count": 1,
     "employees": [
         {
-            "name": "HETTIGE DON RAVINDU RASHMIKA HETTIGE",
-            "email": "rashmikaravindu@gmail.com",
-            "phone": "(+94)713905184 / (+94)112757354",
-            "address": "41/3F/4A ,Blackpearl Estate,Watereka,Meegoda.",
+            "name": "Dineth Dinuka Prasad Mahanama",
+            "email": "dinethmahanama@gmail.com",
+            "phone": "(+94) 712028189 / (+94) 452228934",
+            "address": "84,2nd Lane,Flower Road,New Town,Ratnapura",
             "education_count": 5,
-            "education_total": 8,
+            "education_total": "5/20",
             "education": [
                 {
                     "qualification": "B.Sc. Special (Hons) – Information Technology",
-                    "comment": "Expected Graduation Date – Feb 2017"
+                    "comment": "CGPA 3.307"
                 },
                 {
-                    "qualification": "Diploma in Information Technology (Esoft)",
+                    "qualification": "Undergraduate at University of Sri Jayewardenepura - Physical Science",
+                    "comment": "(Mathematics, Management Science, Physics)"
+                },
+                {
+                    "qualification": "completed the English Language course",
                     "comment": ""
                 },
                 {
-                    "qualification": "Diploma in Information Technology (Ewis)",
+                    "qualification": "G.C.E Advanced Level (Sivali Central College-Ratnapura)",
                     "comment": ""
                 },
                 {
-                    "qualification": "GCE Advance Level (Sinhala Medium-Ananda College,Colombo 10)",
-                    "comment": ""
-                },
-                {
-                    "qualification": "GCE Ordinary Level (English Medium-Ananda College,Colombo 10) Dec 2008",
+                    "qualification": "GCE Ordinary Level (Sivali Central College-Ratnapura) ",
                     "comment": ""
                 }
             ],
@@ -39,7 +39,7 @@
                 }
             ],
             "skills_count": 6,
-            "skills_total": 12,
+            "skills_total": "6/20",
             "skills": [
                 {
                     "skill": "C++",
@@ -87,27 +87,19 @@
             "email": "migaramizsliit@gmail.com",
             "phone": "+94 77 664 4328",
             "address": "15/B, 6TH LANE, VIDARSHANA MAWATHA, HOMAGAMA, SRI LANKA",
-            "education_count": 5,
-            "education_total": 8,
+            "education_count": 3,
+            "education_total": "5/20",
             "education": [
                 {
-                    "qualification": "B.Sc. Special (Hons) – Information Technology",
-                    "comment": "Expected Graduation Date – Feb 2017"
+                    "qualification": "B.Sc Special (Hons) in Information Technology Specialization – Software Engineering",
+                    "comment": "Cumulative GPA 3.3"
                 },
                 {
-                    "qualification": "Diploma in Information Technology (Esoft)",
+                    "qualification": "GCE Advanced Level – 2011",
                     "comment": ""
                 },
                 {
-                    "qualification": "Diploma in Information Technology (Ewis)",
-                    "comment": ""
-                },
-                {
-                    "qualification": "GCE Advance Level (Sinhala Medium-Ananda College,Colombo 10)",
-                    "comment": ""
-                },
-                {
-                    "qualification": "GCE Ordinary Level (English Medium-Ananda College,Colombo 10) Dec 2008",
+                    "qualification": "GCE Ordinary Level – 2007",
                     "comment": ""
                 }
             ],
@@ -119,8 +111,8 @@
                     "comment": ""
                 }
             ],
-            "skills_count": 6,
-            "skills_total": 12,
+            "skills_count": 8,
+            "skills_total": "8/20",
             "skills": [
                 {
                     "skill": "C++",
@@ -143,7 +135,15 @@
                     "comment": ""
                 },
                 {
-                    "skill": "MS SQL",
+                    "skill": "ASP.NET",
+                    "comment": ""
+                },
+                {
+                    "skill": "Ajax",
+                    "comment": ""
+                },
+                {
+                    "skill": "Android",
                     "comment": ""
                 }
             ],
